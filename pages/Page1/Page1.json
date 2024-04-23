@@ -8,20 +8,23 @@
         "dsl": {
           "widgetName": "MainContainer",
           "backgroundColor": "none",
-          "rightColumn": 4896,
+          "rightColumn": 1224,
           "snapColumns": 64,
           "detachFromLayout": true,
           "widgetId": "0",
           "topRow": 0,
+<<<<<<< HEAD
+          "bottomRow": 750,
+=======
           "bottomRow": 1350,
+>>>>>>> origin
           "containerStyle": "none",
-          "snapRows": 124,
+          "snapRows": 128,
           "parentRowSpace": 1,
           "type": "CANVAS_WIDGET",
           "canExtend": true,
           "version": 89,
-          "minHeight": 1292,
-          "dynamicTriggerPathList": [],
+          "minHeight": 1300,
           "parentColumnSpace": 1,
           "dynamicBindingPathList": [],
           "leftColumn": 0
@@ -29,6 +32,10 @@
         "layoutOnLoadActions": [
           [
             {
+<<<<<<< HEAD
+              "id": "Page1_RecipeAPI",
+              "name": "RecipeAPI",
+=======
               "id": "Page1_Alex_Ramirez_Allergies",
               "name": "Alex_Ramirez_Allergies",
               "confirmBeforeExecute": false,
@@ -47,6 +54,7 @@
             {
               "id": "Page1_Alex_Ramirez_Food_Restriction",
               "name": "Alex_Ramirez_Food_Restriction",
+>>>>>>> origin
               "confirmBeforeExecute": false,
               "pluginType": "API",
               "jsonPathKeys": [],
@@ -55,11 +63,21 @@
           ],
           [
             {
+<<<<<<< HEAD
+              "id": "Page1_AmyGreen_Recommended",
+              "name": "AmyGreen_Recommended",
+              "confirmBeforeExecute": false,
+              "pluginType": "API",
+              "jsonPathKeys": [
+                "Input2.text"
+              ],
+=======
               "id": "Page1_Alex_Ramirez_Budget",
               "name": "Alex_Ramirez_Budget",
               "confirmBeforeExecute": false,
               "pluginType": "API",
               "jsonPathKeys": [],
+>>>>>>> origin
               "timeoutInMillisecond": 10000
             }
           ]
@@ -73,8 +91,9 @@
       }
     ],
     "userPermissions": [],
-    "policies": []
+    "policies": [],
+    "isHidden": false
   },
   "deleted": false,
-  "gitSyncId": "6623445f15d6d17d7be7723d_6623445f15d6d17d7be7723f"
+  "gitSyncId": "66272dddd8fb7d4ab4af5e6d_66272e19d8fb7d4ab4af5e78"
 }

@@ -3,6 +3,22 @@
     {
       "id": "Alex Ramirez Home Screen",
       "isDefault": true
+    },
+    {
+      "id": "Login Page",
+      "isDefault": false
+    },
+    {
+      "id": "Forgot Username",
+      "isDefault": false
+    },
+    {
+      "id": "Forgot Password",
+      "isDefault": false
+    },
+    {
+      "id": "Page1",
+      "isDefault": false
     }
   ],
   "viewMode": false,

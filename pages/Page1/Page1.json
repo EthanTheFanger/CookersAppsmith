@@ -14,10 +14,14 @@
           "widgetId": "0",
           "topRow": 0,
 <<<<<<< HEAD
+<<<<<<< HEAD
           "bottomRow": 750,
 =======
           "bottomRow": 1350,
 >>>>>>> origin
+=======
+          "bottomRow": 380,
+>>>>>>> 600f719e409b47ad29468514a06b6b8ea99d9b1b
           "containerStyle": "none",
           "snapRows": 128,
           "parentRowSpace": 1,
@@ -29,6 +33,7 @@
           "dynamicBindingPathList": [],
           "leftColumn": 0
         },
+<<<<<<< HEAD
         "layoutOnLoadActions": [
           [
             {
@@ -82,6 +87,9 @@
             }
           ]
         ],
+=======
+        "layoutOnLoadActions": [],
+>>>>>>> 600f719e409b47ad29468514a06b6b8ea99d9b1b
         "layoutOnLoadActionErrors": [],
         "validOnPageLoadActions": true,
         "id": "Page1",

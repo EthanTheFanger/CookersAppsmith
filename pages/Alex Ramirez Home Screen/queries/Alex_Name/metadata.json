@@ -16,7 +16,7 @@
       "policies": [],
       "userPermissions": []
     },
-    "pageId": "Page1",
+    "pageId": "Alex Ramirez Home Screen",
     "actionConfiguration": {
       "timeoutInMillisecond": 10000,
       "paginationType": "NONE",
@@ -50,7 +50,7 @@
     "userPermissions": [],
     "createdAt": "2024-04-23T00:51:09Z"
   },
-  "id": "Page1_Alex_Name",
+  "id": "Alex Ramirez Home Screen_Alex_Name",
   "deleted": false,
   "gitSyncId": "6626fc6e2a895b267d2ff09c_662705fdb70f944f4c6aa89e"
 }

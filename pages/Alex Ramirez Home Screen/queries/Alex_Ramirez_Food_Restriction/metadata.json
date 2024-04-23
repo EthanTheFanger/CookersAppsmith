@@ -2,12 +2,12 @@
   "pluginType": "API",
   "pluginId": "restapi-plugin",
   "unpublishedAction": {
-    "name": "Alex_Ramirez_Allergies",
+    "name": "Alex_Ramirez_Food_Restriction",
     "datasource": {
       "name": "DEFAULT_REST_DATASOURCE",
       "pluginId": "restapi-plugin",
       "datasourceConfiguration": {
-        "url": "web:4000/user/1/Allergies"
+        "url": "web:4000/user/1/FoodRestrictions"
       },
       "invalids": [],
       "messages": [],
@@ -16,7 +16,7 @@
       "policies": [],
       "userPermissions": []
     },
-    "pageId": "Page1",
+    "pageId": "Alex Ramirez Home Screen",
     "actionConfiguration": {
       "timeoutInMillisecond": 10000,
       "paginationType": "NONE",
@@ -48,9 +48,9 @@
     "confirmBeforeExecute": false,
     "policies": [],
     "userPermissions": [],
-    "createdAt": "2024-04-23T00:59:05Z"
+    "createdAt": "2024-04-23T05:16:00Z"
   },
-  "id": "Page1_Alex_Ramirez_Allergies",
+  "id": "Alex Ramirez Home Screen_Alex_Ramirez_Food_Restriction",
   "deleted": false,
-  "gitSyncId": "6626fc6e2a895b267d2ff09c_662707d9b70f944f4c6aa8a0"
+  "gitSyncId": "6626fc6e2a895b267d2ff09c_66274410ddc52a6cc2cb99a2"
 }

@@ -1,7 +1,7 @@
 {
   "unpublishedPage": {
-    "name": "Page1",
-    "slug": "page1",
+    "name": "Alex Ramirez Home Screen",
+    "slug": "alex-ramirez-home-screen",
     "layouts": [
       {
         "viewMode": false,
@@ -29,7 +29,7 @@
         "layoutOnLoadActions": [
           [
             {
-              "id": "Page1_Alex_Ramirez_Allergies",
+              "id": "Alex Ramirez Home Screen_Alex_Ramirez_Allergies",
               "name": "Alex_Ramirez_Allergies",
               "confirmBeforeExecute": false,
               "pluginType": "API",
@@ -37,7 +37,7 @@
               "timeoutInMillisecond": 10000
             },
             {
-              "id": "Page1_Alex_Ramirez_FavoritedRecipe",
+              "id": "Alex Ramirez Home Screen_Alex_Ramirez_FavoritedRecipe",
               "name": "Alex_Ramirez_FavoritedRecipe",
               "confirmBeforeExecute": false,
               "pluginType": "API",
@@ -45,7 +45,7 @@
               "timeoutInMillisecond": 10000
             },
             {
-              "id": "Page1_Alex_Ramirez_Food_Restriction",
+              "id": "Alex Ramirez Home Screen_Alex_Ramirez_Food_Restriction",
               "name": "Alex_Ramirez_Food_Restriction",
               "confirmBeforeExecute": false,
               "pluginType": "API",
@@ -55,7 +55,7 @@
           ],
           [
             {
-              "id": "Page1_Alex_Ramirez_Budget",
+              "id": "Alex Ramirez Home Screen_Alex_Ramirez_Budget",
               "name": "Alex_Ramirez_Budget",
               "confirmBeforeExecute": false,
               "pluginType": "API",
@@ -66,14 +66,15 @@
         ],
         "layoutOnLoadActionErrors": [],
         "validOnPageLoadActions": true,
-        "id": "Page1",
+        "id": "Alex Ramirez Home Screen",
         "deleted": false,
         "policies": [],
         "userPermissions": []
       }
     ],
     "userPermissions": [],
-    "policies": []
+    "policies": [],
+    "isHidden": false
   },
   "deleted": false,
   "gitSyncId": "6623445f15d6d17d7be7723d_6623445f15d6d17d7be7723f"

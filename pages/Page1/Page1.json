@@ -13,7 +13,7 @@
           "detachFromLayout": true,
           "widgetId": "0",
           "topRow": 0,
-          "bottomRow": 970,
+          "bottomRow": 1350,
           "containerStyle": "none",
           "snapRows": 124,
           "parentRowSpace": 1,
@@ -39,6 +39,14 @@
             {
               "id": "Page1_Alex_Ramirez_FavoritedRecipe",
               "name": "Alex_Ramirez_FavoritedRecipe",
+              "confirmBeforeExecute": false,
+              "pluginType": "API",
+              "jsonPathKeys": [],
+              "timeoutInMillisecond": 10000
+            },
+            {
+              "id": "Page1_Alex_Ramirez_Food_Restriction",
+              "name": "Alex_Ramirez_Food_Restriction",
               "confirmBeforeExecute": false,
               "pluginType": "API",
               "jsonPathKeys": [],

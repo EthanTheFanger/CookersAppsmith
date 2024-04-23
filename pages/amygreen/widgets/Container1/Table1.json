@@ -83,7 +83,7 @@
         "Steps",
         "TimeToMake"
     ],
-    "dynamicPropertyPathList": [],
+    "dynamicPropertyPathList": [{"key": "tableData"}],
     "displayName": "Table",
     "bottomRow": 58,
     "columnWidthMap": {
@@ -447,7 +447,7 @@
     "thumbnailSVG": "/static/media/thumbnail.d0492f06681daa69baf92b07d3829dfc.svg",
     "widgetId": "rc1df6omaz",
     "minWidth": 450,
-    "tableData": "{{RecipeAPI.data}}",
+    "tableData": "{{GetRecipe.data}}",
     "label": "Data",
     "searchKey": "",
     "parentId": "qvu7uq6fna",

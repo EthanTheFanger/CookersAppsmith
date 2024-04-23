@@ -1,7 +1,7 @@
 {
   "unpublishedPage": {
-    "name": "Page1",
-    "slug": "page1",
+    "name": "amygreen",
+    "slug": "amygreen",
     "layouts": [
       {
         "viewMode": false,
@@ -28,7 +28,17 @@
         "layoutOnLoadActions": [
           [
             {
-              "id": "Page1_AmyGreen_Recommended",
+              "id": "amygreen_GetRecipe",
+              "name": "GetRecipe",
+              "confirmBeforeExecute": false,
+              "pluginType": "API",
+              "jsonPathKeys": [],
+              "timeoutInMillisecond": 10000
+            }
+          ],
+          [
+            {
+              "id": "amygreen_AmyGreen_Recommended",
               "name": "AmyGreen_Recommended",
               "confirmBeforeExecute": false,
               "pluginType": "API",
@@ -41,14 +51,15 @@
         ],
         "layoutOnLoadActionErrors": [],
         "validOnPageLoadActions": true,
-        "id": "Page1",
+        "id": "amygreen",
         "deleted": false,
         "policies": [],
         "userPermissions": []
       }
     ],
     "userPermissions": [],
-    "policies": []
+    "policies": [],
+    "isHidden": false
   },
   "deleted": false,
   "gitSyncId": "662824a882da3752ded60194_662825cf82da3752ded601b4"

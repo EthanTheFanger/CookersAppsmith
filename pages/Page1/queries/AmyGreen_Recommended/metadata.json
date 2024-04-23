@@ -24,7 +24,7 @@
       "queryParameters": [
         {
           "key": "userid",
-          "value": "2"
+          "value": "{{Input2.text}}"
         }
       ],
       "body": "",
@@ -42,11 +42,20 @@
       }
     },
     "executeOnLoad": true,
-    "dynamicBindingPathList": [],
+    "dynamicBindingPathList": [
+      {
+        "key": "path"
+      },
+      {
+        "key": "queryParameters[0].value"
+      }
+    ],
     "isValid": true,
     "invalids": [],
     "messages": [],
-    "jsonPathKeys": [],
+    "jsonPathKeys": [
+      "Input2.text"
+    ],
     "userSetOnLoad": false,
     "confirmBeforeExecute": false,
     "policies": [],

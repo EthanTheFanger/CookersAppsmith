@@ -5,8 +5,13 @@
     "widgetName": "Image1",
     "displayName": "Image",
     "iconSVG": "/static/media/icon.0ca0b0d56b58addbf45114ae5a79e88a.svg",
+<<<<<<< HEAD:pages/Login Page/widgets/Container1/Image1.json
     "topRow": 5,
     "bottomRow": 43,
+=======
+    "topRow": 4,
+    "bottomRow": 25,
+>>>>>>> master:pages/Page1/widgets/Container1/Image1.json
     "parentRowSpace": 10,
     "type": "IMAGE_WIDGET",
     "hideCard": false,

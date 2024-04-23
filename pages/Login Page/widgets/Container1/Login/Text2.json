@@ -9,8 +9,14 @@
         "paragraph",
         "label"
     ],
+<<<<<<< HEAD:pages/Login Page/widgets/Container1/Login/Text2.json
     "topRow": 1,
     "bottomRow": 5,
+=======
+    "topRow": 29,
+    "bottomRow": 33,
+    "parentRowSpace": 10,
+>>>>>>> master:pages/Page1/widgets/Container1/Budget.json
     "type": "TEXT_WIDGET",
     "hideCard": false,
     "mobileRightColumn": 25.5,

@@ -1,7 +1,12 @@
 {
     "boxShadow": "none",
     "iconSVG": "/static/media/icon.f4dd498ee72f01127e5bfe3a1a8ad671.svg",
+<<<<<<< HEAD:pages/Forgot Password/widgets/Container1/Input2.json
     "topRow": 17,
+=======
+    "onSubmit": "{{AddAllergies.run().then(() => {\n  Alex_Ramirez_Allergies.run();\n});}}",
+    "topRow": 72,
+>>>>>>> master:pages/Page1/widgets/Container1/Input2.json
     "labelWidth": 5,
     "type": "INPUT_WIDGET_V2",
     "animateLoading": true,
@@ -27,7 +32,11 @@
     "isLoading": false,
     "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
     "needsErrorInfo": false,
+<<<<<<< HEAD:pages/Forgot Password/widgets/Container1/Input2.json
     "mobileBottomRow": 25,
+=======
+    "mobileBottomRow": 79,
+>>>>>>> master:pages/Page1/widgets/Container1/Input2.json
     "widgetName": "Input2",
     "displayName": "Input",
     "searchTags": [
@@ -36,6 +45,7 @@
         "number",
         "textarea"
     ],
+<<<<<<< HEAD:pages/Forgot Password/widgets/Container1/Input2.json
     "bottomRow": 24,
     "parentRowSpace": 10,
     "autoFocus": false,
@@ -50,14 +60,36 @@
     "rightColumn": 64,
     "thumbnailSVG": "/static/media/thumbnail.a4eac1a16753ea7fc54cac7731f9ea6a.svg",
     "widgetId": "jawfvv2f0b",
+=======
+    "bottomRow": 79,
+    "parentRowSpace": 10,
+    "autoFocus": false,
+    "hideCard": false,
+    "mobileRightColumn": 18,
+    "parentColumnSpace": 12.450439453125,
+    "dynamicTriggerPathList": [{"key": "onSubmit"}],
+    "labelPosition": "Top",
+    "key": "c98lbha4dk",
+    "labelTextSize": "0.875rem",
+    "isDeprecated": false,
+    "rightColumn": 16,
+    "thumbnailSVG": "/static/media/thumbnail.a4eac1a16753ea7fc54cac7731f9ea6a.svg",
+    "widgetId": "472s28z2jl",
+>>>>>>> master:pages/Page1/widgets/Container1/Input2.json
     "minWidth": 450,
     "label": "New Password",
     "parentId": "6v997ogzrq",
     "labelAlignment": "left",
     "renderMode": "CANVAS",
+<<<<<<< HEAD:pages/Forgot Password/widgets/Container1/Input2.json
     "mobileTopRow": 18,
     "responsiveBehavior": "fill",
     "mobileLeftColumn": 17,
+=======
+    "mobileTopRow": 72,
+    "responsiveBehavior": "fill",
+    "mobileLeftColumn": 0,
+>>>>>>> master:pages/Page1/widgets/Container1/Input2.json
     "maxDynamicHeight": 9000,
     "iconAlign": "left",
     "defaultText": "",

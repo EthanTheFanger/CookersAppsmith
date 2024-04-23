@@ -1,12 +1,8 @@
 {
     "boxShadow": "none",
     "iconSVG": "/static/media/icon.f4dd498ee72f01127e5bfe3a1a8ad671.svg",
-<<<<<<< HEAD:pages/Forgot Username/widgets/Container1/Input2.json
-    "topRow": 17,
-=======
-    "onSubmit": "{{ChangeBudget.run().then(() => {\n  Alex_Ramirez_Budget.run();\n  showAlert('Successfull', 'success');\n}).catch(() => {\n  showAlert('Unsuccessful. Budget Not Updated.', 'error');\n});}}",
-    "topRow": 33,
->>>>>>> master:pages/Page1/widgets/Container1/Change_budget.json
+    "onSubmit": "{{add_food_restriction.run().then(() => {\n  Alex_Ramirez_Food_Restriction.run();\n});}}",
+    "topRow": 113,
     "labelWidth": 5,
     "type": "INPUT_WIDGET_V2",
     "animateLoading": true,
@@ -31,10 +27,9 @@
     ],
     "isLoading": false,
     "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
-    "originalBottomRow": 28,
     "needsErrorInfo": false,
-    "mobileBottomRow": 27,
-    "widgetName": "Input2",
+    "mobileBottomRow": 120,
+    "widgetName": "Input4",
     "displayName": "Input",
     "searchTags": [
         "form",
@@ -42,36 +37,27 @@
         "number",
         "textarea"
     ],
-<<<<<<< HEAD:pages/Forgot Username/widgets/Container1/Input2.json
-    "bottomRow": 24,
-=======
-    "bottomRow": 40,
->>>>>>> master:pages/Page1/widgets/Container1/Change_budget.json
+    "bottomRow": 120,
     "parentRowSpace": 10,
     "autoFocus": false,
     "hideCard": false,
-    "mobileRightColumn": 20,
-    "parentColumnSpace": 4.708984375,
-    "dynamicTriggerPathList": [],
+    "mobileRightColumn": 13,
+    "parentColumnSpace": 12.450439453125,
+    "dynamicTriggerPathList": [{"key": "onSubmit"}],
     "labelPosition": "Top",
-    "key": "7muqeebyjv",
+    "key": "ybqq05l1kv",
     "labelTextSize": "0.875rem",
     "isDeprecated": false,
-<<<<<<< HEAD:pages/Forgot Username/widgets/Container1/Input2.json
-    "rightColumn": 64,
-=======
-    "rightColumn": 32,
->>>>>>> master:pages/Page1/widgets/Container1/Change_budget.json
+    "rightColumn": 15,
     "thumbnailSVG": "/static/media/thumbnail.a4eac1a16753ea7fc54cac7731f9ea6a.svg",
-    "widgetId": "sfp7n3ihvu",
+    "widgetId": "0wtmpvi2u7",
     "minWidth": 450,
-    "label": "Enter New Username",
-    "parentId": "mqbqpdv4c6",
+    "label": "Add FoodRestriction\n",
+    "parentId": "q3av867j70",
     "labelAlignment": "left",
     "renderMode": "CANVAS",
-    "mobileTopRow": 20,
+    "mobileTopRow": 113,
     "responsiveBehavior": "fill",
-    "originalTopRow": 21,
     "mobileLeftColumn": 0,
     "maxDynamicHeight": 9000,
     "iconAlign": "left",

@@ -13,7 +13,11 @@
           "detachFromLayout": true,
           "widgetId": "0",
           "topRow": 0,
+<<<<<<< HEAD
           "bottomRow": 750,
+=======
+          "bottomRow": 1350,
+>>>>>>> origin
           "containerStyle": "none",
           "snapRows": 128,
           "parentRowSpace": 1,
@@ -28,8 +32,29 @@
         "layoutOnLoadActions": [
           [
             {
+<<<<<<< HEAD
               "id": "Page1_RecipeAPI",
               "name": "RecipeAPI",
+=======
+              "id": "Page1_Alex_Ramirez_Allergies",
+              "name": "Alex_Ramirez_Allergies",
+              "confirmBeforeExecute": false,
+              "pluginType": "API",
+              "jsonPathKeys": [],
+              "timeoutInMillisecond": 10000
+            },
+            {
+              "id": "Page1_Alex_Ramirez_FavoritedRecipe",
+              "name": "Alex_Ramirez_FavoritedRecipe",
+              "confirmBeforeExecute": false,
+              "pluginType": "API",
+              "jsonPathKeys": [],
+              "timeoutInMillisecond": 10000
+            },
+            {
+              "id": "Page1_Alex_Ramirez_Food_Restriction",
+              "name": "Alex_Ramirez_Food_Restriction",
+>>>>>>> origin
               "confirmBeforeExecute": false,
               "pluginType": "API",
               "jsonPathKeys": [],
@@ -38,6 +63,7 @@
           ],
           [
             {
+<<<<<<< HEAD
               "id": "Page1_AmyGreen_Recommended",
               "name": "AmyGreen_Recommended",
               "confirmBeforeExecute": false,
@@ -45,6 +71,13 @@
               "jsonPathKeys": [
                 "Input2.text"
               ],
+=======
+              "id": "Page1_Alex_Ramirez_Budget",
+              "name": "Alex_Ramirez_Budget",
+              "confirmBeforeExecute": false,
+              "pluginType": "API",
+              "jsonPathKeys": [],
+>>>>>>> origin
               "timeoutInMillisecond": 10000
             }
           ]

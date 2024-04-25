@@ -19,6 +19,10 @@
     {
       "id": "Recipe Page",
       "isDefault": false
+    },
+    {
+      "id": "Add Recipe Page",
+      "isDefault": false
     }
   ],
   "viewMode": false,
